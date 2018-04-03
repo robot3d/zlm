@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1393687178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b81af42d5a314d9dfd50ddd8825a7dff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df39d0d648917b7cbe18996f46657531
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a17a52215a3740745abe713b75659037, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 438b8f5912d6aad4f9d648b81d62ea81, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41ad3dba1d705e041952c9b0401fcbf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93b3457b139ae1240a993fde98f20e34, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/U_ShopItem.prefab
+Dependencies:
+- E:/DropDoll.Study/Assets/StreamingAssets/fonts/msyh

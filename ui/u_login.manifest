@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3213347643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0650ae835bf683cc3eee2db781aaf82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54640ccd9d07964fbec05a0710e6ab9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0411411642ecb24788123f5ccd165d3, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af6ccb5331abb4f49b040717cb01a2bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 438b8f5912d6aad4f9d648b81d62ea81, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad1a1bbb7c5bb9247ac2e55f91827d4b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/U_Login.prefab
+Dependencies:
+- E:/DropDoll.Study/Assets/StreamingAssets/fonts/msyh

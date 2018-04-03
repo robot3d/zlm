@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 537852877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d68f10dbc4c8908de04cad89a509c3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03116a70e5d2f8c337f65113ee7ab357
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0411411642ecb24788123f5ccd165d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a17a52215a3740745abe713b75659037, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4dc6f1e144712cb4aad6ab160df848b2, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41ad3dba1d705e041952c9b0401fcbf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bad016bb70440e43a0a4da64cfad6d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8688b3adc16a0aa4e82eba99bb32d8f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de5680bdf1f53f147bcf725f99c38d42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/U_MoviePlayer.prefab
+Dependencies:
+- E:/DropDoll.Study/Assets/StreamingAssets/fonts/msyh

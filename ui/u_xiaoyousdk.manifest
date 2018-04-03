@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1748301751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0b704914a913fdc306d46947326f5eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a27bea50a3d264e44056aeed11d7d3a6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0411411642ecb24788123f5ccd165d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 637b1b912e0e1f246b77f30510a0b40d, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 074f07e3d517da44a8346d973d6574b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22f2cc7401e78a847b435c5fc83731dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e70e725a8aa2c04d8b31a71958ae74f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5ab7d1816a680249bb154038f5858b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8960af837b976046b44593dd80cf32c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb6d8429751b7c4469741a166079de84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 455feab97df4b5f439c918f7bd8ca189, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41ad3dba1d705e041952c9b0401fcbf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0323ccfc683621848991e39c4e3baffa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3699ff4e3b930b54d9b925d96e157421, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c61d2e5f9ec998147b43bb3952ce68e7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/U_XiaoyouSDK.prefab
+Dependencies:
+- E:/DropDoll.Study/Assets/StreamingAssets/fonts/msyh
