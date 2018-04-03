@@ -1,0 +1,243 @@
+ManifestFileVersion: 0
+CRC: 4077232232
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: fonts/msyh
+      Dependencies: {}
+    Info_1:
+      Name: fonts/msyhbd
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_2:
+      Name: ui/ring
+      Dependencies: {}
+    Info_3:
+      Name: ui/u_accuitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_4:
+      Name: ui/u_accumulate
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_5:
+      Name: ui/u_accurule
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_6:
+      Name: ui/u_address
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_7:
+      Name: ui/u_addressitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_8:
+      Name: ui/u_add_addr
+      Dependencies: {}
+    Info_9:
+      Name: ui/u_aditem
+      Dependencies: {}
+    Info_10:
+      Name: ui/u_advdialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_11:
+      Name: ui/u_bonusdialog
+      Dependencies:
+        Dependency_0: fonts/msyhbd
+    Info_12:
+      Name: ui/u_bonusitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_13:
+      Name: ui/u_cart
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_14:
+      Name: ui/u_cartitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_15:
+      Name: ui/u_cartrule
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_16:
+      Name: ui/u_catchblock
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_17:
+      Name: ui/u_catchline
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_18:
+      Name: ui/u_catchlog
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_19:
+      Name: ui/u_checkindialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_20:
+      Name: ui/u_contactus
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_21:
+      Name: ui/u_editdialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_22:
+      Name: ui/u_exchangedialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_23:
+      Name: ui/u_feedbackdialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_24:
+      Name: ui/u_forecastdialog
+      Dependencies: {}
+    Info_25:
+      Name: ui/u_help
+      Dependencies: {}
+    Info_26:
+      Name: ui/u_invitedialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_27:
+      Name: ui/u_loading
+      Dependencies: {}
+    Info_28:
+      Name: ui/u_login
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_29:
+      Name: ui/u_lottery
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+        Dependency_2: ui/u_spinea
+        Dependency_3: ui/u_spineb
+    Info_30:
+      Name: ui/u_mail
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_31:
+      Name: ui/u_mailattach
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_32:
+      Name: ui/u_mailbox
+      Dependencies: {}
+    Info_33:
+      Name: ui/u_mailitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_34:
+      Name: ui/u_messagedialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_35:
+      Name: ui/u_movieplayer
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_36:
+      Name: ui/u_mycarddialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_37:
+      Name: ui/u_mycarditem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_38:
+      Name: ui/u_newaddress
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_39:
+      Name: ui/u_newbielimitbuydialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_40:
+      Name: ui/u_newbieweekcarddialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_41:
+      Name: ui/u_order
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_42:
+      Name: ui/u_orderitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_43:
+      Name: ui/u_orderview
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_44:
+      Name: ui/u_paydialog
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_45:
+      Name: ui/u_payitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_46:
+      Name: ui/u_playing
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_47:
+      Name: ui/u_rank
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_48:
+      Name: ui/u_rankitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_49:
+      Name: ui/u_scrolllight
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_50:
+      Name: ui/u_server
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_51:
+      Name: ui/u_serverdialog
+      Dependencies: {}
+    Info_52:
+      Name: ui/u_shop
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_53:
+      Name: ui/u_shopitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_54:
+      Name: ui/u_spinea
+      Dependencies: {}
+    Info_55:
+      Name: ui/u_spineb
+      Dependencies: {}
+    Info_56:
+      Name: ui/u_watching
+      Dependencies:
+        Dependency_0: fonts/msyh
+        Dependency_1: fonts/msyhbd
+    Info_57:
+      Name: ui/u_watchitem
+      Dependencies:
+        Dependency_0: fonts/msyh
+    Info_58:
+      Name: ui/u_xiaoyousdk
+      Dependencies:
+        Dependency_0: fonts/msyh
